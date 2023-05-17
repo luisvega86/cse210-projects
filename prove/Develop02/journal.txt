@@ -1,0 +1,12 @@
+[
+  {
+    "prompt": "What was the best part of my day?",
+    "response": "first",
+    "date": "2023-05-11T22:21:17.798175-03:00"
+  },
+  {
+    "prompt": "How did I see the hand of the Lord in my life today?",
+    "response": "second",
+    "date": "2023-05-11T22:21:21.308344-03:00"
+  }
+]
